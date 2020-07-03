@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirebaseDatabase</string>
+    <string name="et_title">Title</string>
+    <string name="et_price">price</string>
+    <string name="et_description">description</string>
+    <string name="save_menu">save</string>
+    <string name="delete_menu">Delete</string>
+    <string name="logout">Logout</string>
+    <string name="upload_image">Upload image</string>
+</resources>
